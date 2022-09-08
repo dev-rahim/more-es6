@@ -9,3 +9,6 @@ console.log(Math.max(...numbers));
 // 4. Arrow function 
 const add = (a, b) => a + b;
 console.log(add(2, 5));
+
+const squrt = x => x * x;
+console.log(squrt(5));
